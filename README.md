@@ -71,7 +71,7 @@ https://www.loom.com/share/ff268ba46f0442859b5fd8efdfbd5bd2?sid=abdab2c9-d5fa-47
 
  
    # Credits <br/>
-   This project was developed by ```Jahir Pendhari``` as a part of ```Masai School``` training program.
+   This project was developed by ```Hrithik Kumar``` as a part of ```ReachInBox``` Recruitment process.
 
-   <p>Feel free to explore and integrate these endpoints into your application.</p>
+
   
